@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+contracts/lib/
+
+# Build outputs
+dist/
+out/
+cache/
+broadcast/
+app/qore-vault-app/dist/
+
+# Environment / secrets — NEVER commit keys, seeds, mnemonics or credentials.
+.env
+.env.local
+*.key
+*.pem
+*.dilithium
+
+# Editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/

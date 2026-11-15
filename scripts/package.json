@@ -1,0 +1,1 @@
+{"dependencies":{"@qorechain/sdk":"^0.13.0"},"description":"Operator tooling for the PQ Timelock Vault: offline ML-DSA-87 signing of above-threshold withdrawal messages.","license":"MIT","name":"pq-timelock-vault-scripts","private":true,"version":"1.0.0"}
